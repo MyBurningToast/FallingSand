@@ -10,6 +10,8 @@ A small example project built with the [BRUTAL framework](https://github.com/ahw
 - `4` - Erase
 - `Left Click` - Paint material
 - `Right Click` - Drop explosive
+- `<` - Decrease brush size
+- `>` - Increase brush size
 - `R` - Clear grid
 - `Esc` - Quit
 
