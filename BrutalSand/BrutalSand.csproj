@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ahwoo.Brutal.Collections" Version="*" />
+    <PackageReference Include="Ahwoo.Brutal.Concurrency" Version="*" />
+    <PackageReference Include="Ahwoo.Brutal.Core" Version="*" />
+    <PackageReference Include="Ahwoo.Brutal.Glfw" Version="*" />
+    <PackageReference Include="Ahwoo.Brutal.Numerics" Version="*" />
+    <PackageReference Include="Ahwoo.Brutal.ShaderC" Version="*" />
+    <PackageReference Include="Ahwoo.Brutal.Vulkan.Abstractions" Version="*" />
+    <PackageReference Include="Ahwoo.Brutal.Vulkan.Vma" Version="*" />
+	<PackageReference Include="Ahwoo.Brutal.ImGui" Version="*" />
+  </ItemGroup>
+
+</Project>
